@@ -1,0 +1,35 @@
+{
+    "planets": [
+		{
+            "name": "my ol planet",
+            "x": 42,
+            "y": 451,
+            "owner": 1,
+            "ship_count": 23
+        },
+		{
+            "name": "my c planet",
+            "x": 4223,
+            "y": 42,
+            "owner": 2,
+            "ship_count": 23
+        },
+		{
+            "name": "my cool planet",
+            "x": 42,
+            "y": 42,
+            "owner": 1,
+            "ship_count": 23
+        }
+    ],
+    "expeditions": [
+        {
+            "id": 1000,
+            "origin": "my boring planet",
+            "destination": "my cool planet",
+            "turns_remaining": 3,
+            "owner": 2,
+            "ship_count": 18
+        }
+    ]
+}

@@ -4,4 +4,4 @@ server = "ws://games.zeus.gent:8080"
 frontend = "https://games.zeus.gent"
 # The command to use to start your bot
 bot_argv = ["./bot-1"]
-bot_token = "f432d34078e23c64b68a8a2c55133bad94d1603d97860caa17828a3484709625"
+bot_token = "875e2e2fd9e7d1ce1b8df1ada51cfdddb30f9dc05a80457d59257c458ed99a72"
